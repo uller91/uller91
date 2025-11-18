@@ -1,6 +1,7 @@
 ## Hi, I'm Ilya Girnik
 
 Doing programming for science and other purposes. Exploring depths of Lunix, Go and gamedev in Go (Ebitengine is awesome)!
+
 Hope to one day find an IT job...
 
 <!--
