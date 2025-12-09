@@ -2,7 +2,7 @@
 
 Doing programming for science and other purposes. Exploring depths of Lunix, Go and gamedev in Go (Ebitengine is awesome)!
 
-Hope to one day find an IT job...
+Reading *Mastering Go* by M. Tsoukalos and imroving my skills at boot.dev
 
 <!--
 **uller91/uller91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
